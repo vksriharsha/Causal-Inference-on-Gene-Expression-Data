@@ -1,1 +1,11 @@
 https://github.com/FenTechSolutions/CausalDiscoveryToolbox
+
+Visualizating the graph:
+
+- https://networkx.org/documentation/latest/tutorial.html
+
+- https://networkx.org/
+
+Similarity: edit_distance() https://networkx.org/documentation/latest/reference/algorithms/similarity.html
+
+Causality: https://github.com/akelleh/causality
