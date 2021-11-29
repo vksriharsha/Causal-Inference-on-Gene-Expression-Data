@@ -1,4 +1,4 @@
-# Identifying Gene regulatory network using PC-CMI and IC algorithms on Dream 3 dataset
+# Identifying Gene regulatory network using PC-CMI and IC algorithms
 
 We have implemented the PC-CMI algorithm presented in the paper by Zhang et al. (https://academic.oup.com/bioinformatics/article/28/1/98/221936?login=true) and compared the causal graph obtained, with the gold standard network, as well as the network obtained by the out of the box IC algorithm.
 
