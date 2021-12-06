@@ -1,0 +1,16 @@
+,accuracy,timetaken
+InSilicoSize10-Ecoli1-trajectories.tsv,"ACC=0.7 , F1=0.55 , TPR=0.55 , FPR=0.45",2.787449359893799
+InSilicoSize10-Ecoli1-heterozygous.tsv,"ACC=0.74 , F1=0.49 , TPR=0.51 , FPR=0.49",1.269639015197754
+InSilicoSize10-Ecoli1-null-mutants.tsv,"ACC=0.7 , F1=0.47 , TPR=0.48 , FPR=0.52",1.0554027557373047
+InSilicoSize10-Ecoli2-trajectories.tsv,"ACC=0.66 , F1=0.52 , TPR=0.53 , FPR=0.47",3.4467573165893555
+InSilicoSize10-Ecoli2-null-mutants.tsv,"ACC=0.66 , F1=0.49 , TPR=0.51 , FPR=0.49",1.4878408908843994
+InSilicoSize10-Ecoli2-heterozygous.tsv,"ACC=0.64 , F1=0.44 , TPR=0.48 , FPR=0.52",1.5403454303741455
+InSilicoSize10-Yeast1-null-mutants.tsv,"ACC=0.72 , F1=0.48 , TPR=0.49 , FPR=0.51",2.001096487045288
+InSilicoSize10-Yeast1-heterozygous.tsv,"ACC=0.72 , F1=0.42 , TPR=0.45 , FPR=0.55",1.6357824802398682
+InSilicoSize10-Yeast1-trajectories.tsv,"ACC=0.66 , F1=0.49 , TPR=0.49 , FPR=0.51",3.3979995250701904
+InSilicoSize10-Yeast2-trajectories.tsv,"ACC=0.62 , F1=0.58 , TPR=0.62 , FPR=0.38",3.0760889053344727
+InSilicoSize10-Yeast2-null-mutants.tsv,"ACC=0.52 , F1=0.4 , TPR=0.52 , FPR=0.48",0.8174078464508057
+InSilicoSize10-Yeast2-heterozygous.tsv,"ACC=0.5 , F1=0.39 , TPR=0.5 , FPR=0.5",1.3997082710266113
+InSilicoSize10-Yeast3-heterozygous.tsv,"ACC=0.62 , F1=0.49 , TPR=0.57 , FPR=0.43",1.200047254562378
+InSilicoSize10-Yeast3-null-mutants.tsv,"ACC=0.48 , F1=0.36 , TPR=0.43 , FPR=0.57",0.9586896896362305
+InSilicoSize10-Yeast3-trajectories.tsv,"ACC=0.6 , F1=0.54 , TPR=0.56 , FPR=0.44",2.6521289348602295
